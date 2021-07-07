@@ -1,0 +1,6 @@
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/marv2097/siprocket v0.0.0-20190829114445-b2fe8c7d1589 h1:THpJtV1kQGYqdLuoGSEFmnoT4HC6IBUIpkRC4zG1fvo=
+github.com/marv2097/siprocket v0.0.0-20190829114445-b2fe8c7d1589/go.mod h1:ugcl88hxQtl/mELfV2aI++IuON0tVkBG4HJfDLvzVb0=
+github.com/pires/go-proxyproto v0.5.1-0.20210422131542-3aa7ea95a821 h1:d1ShOr3Pg64dmIlFH2A4VX2tgBA9Xd+otYRU2or/h7w=
+github.com/pires/go-proxyproto v0.5.1-0.20210422131542-3aa7ea95a821/go.mod h1:Odh9VFOZJCf9G8cLW5o435Xf1J95Jw9Gw5rnCjcwzAY=
