@@ -2,7 +2,7 @@
 
 A very simple Websocket server written in Go, meant for use with *WebRTC clients only*.
 
-Main goal and motivation for this repo is having simple service to test load balancing and scaling scenarios with WebRTC clients. HTTP/1.1 upgrade request will negotiate websocket connection and switch to SIP subprotocol. Any requests from WebRTC clients will be responded with `200 OK` - it assumes that only REGISTER is sent, so the client will be successfuly registered and then stay idle.
+Main goal and motivation for this repo is having simple service to test load balancing and scaling scenarios with WebRTC clients. HTTP/1.1 upgrade request will negotiate websocket connection and switch to SIP subprotocol. Any subsequent requests from WebRTC clients will be responded with `200 OK` - it assumes that only REGISTER is sent, so the clients will be successfully registered and then stay idle.
 
 Note: any request from websocket client will be responded with text based `SIP 200 OK` response
 
