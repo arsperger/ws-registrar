@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/arsperger/ws-registrar)](https://goreportcard.com/report/github.com/arsperger/ws-registrar)
+
 # Websockets (SIP) test server
 
 A very simple Websocket server written in Go, meant for use with *WebRTC clients only*.
